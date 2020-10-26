@@ -1,0 +1,20 @@
+[
+    
+{
+    "name":"Github page",
+    "url":"https://github.com/JIE-CHI/JIE-CHI.github.io",
+    "desc":"A repo hosting this personal webpage"
+    },	
+	
+{
+
+       "name":"Huya scraper",
+       "url":"https://github.com/JIE-CHI/huya_scraper",
+       "desc":"A python implementation of a huya-livestream scaper"
+    }
+
+
+
+
+
+]
